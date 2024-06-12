@@ -1,0 +1,7 @@
+/.metadata/
+.mxproject
+.settings/
+Debug/
+Release/
+*.launch
+version.h
